@@ -5,6 +5,8 @@
 This repository showcases my personal programming and design contributions to **The Last Clean Up**, a university project developed in a team of 4 people.
 
 ### 🎮 Project Context
+An **Applied Game** developed as a team project. Players step into the shoes of a newly elected mayor tasked with transforming a polluted, concrete city into a green, sustainable urban environment. By completing **puzzle-based minigames**, players implement real-world **Nature-Based Solutions (NBS)** to combat smog and counter the environmental damage left by the previous administration. 
+
 The full project is a game that features three distinct minigames. Within our team, I took on the roles of **Game Designer** and **Minigame Designer** for the overall experience, while specifically handling the **Gameplay Programming** for two of the three minigames: *Sorting* and *Puzzle*. 
 
 ### 📸 Minigames Preview
